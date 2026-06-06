@@ -17,6 +17,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![LeetCode Stats](https://leetcard.jacoblin.cool/varshitha_kodidela)
 
 ### ☕🌸 Motto
 *"Bloom at your own pace."*
