@@ -21,3 +21,8 @@
 *"Bloom at your own pace."*
 
 🌿 Growing one project at a time 🪴
+### 🤎 Connect With Me
+
+🌷 GitHub: https://github.com/varshitha-kodidela  
+🦋 LinkedIn: https://linkedin.com/in/varshitha-kodidela  
+📧 Email: kodidelavarshitha@gmail.com
